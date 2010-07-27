@@ -1,0 +1,21 @@
+Puppet Facter addons
+====================
+
+Some addons to query Gentoo related informations.
+
+ * system_profile.rb:
+   system_profile => default/linux/amd64/10.0
+
+ * portage_sync.rb:
+   portage_sync => 1268829675
+
+ * gcc_profile.rb:
+   gcc_profile => x86_64-pc-linux-gnu-4.3.4
+
+ * root_device.rb:
+   root_device => /dev/md1
+ 
+ * default_gw.rb:
+   default_gw => 1.1.1.254
+
+
